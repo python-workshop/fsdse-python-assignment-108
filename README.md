@@ -1,6 +1,6 @@
 # fsdse-python-assignment-108
 
-## Implement fizz buzz
+# Implement fizz buzz
 ## Constraints
 * What is fizz buzz?
 	* Return the string representation of numbers from 1 to n
